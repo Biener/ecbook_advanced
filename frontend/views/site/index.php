@@ -1,7 +1,8 @@
 <?php
-/* @var $this yii\web\View */
-$this->title = 'ECBook- elektronisches Klassenbuch';
+ //@var $this yii\web\View 
+//$this->title = 'ECBook- elektronisches Klassenbuch';
 use common\models;
+
 ?>
 <div class="site-index">
 <?php
